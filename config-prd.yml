@@ -1,0 +1,11 @@
+jwt:
+    time: 9045324323
+    secret: hello-world55555
+posco:
+    name: 3기5555555
+    count: 205555555
+test:
+    datasource:
+        url: jdbc:mysql://?.?.?.?:3306/test?useUnicode=true&charcterEncoding=utf8&serverTimezone=Asia/Seoul
+        username: rollin
+        password: 1234
