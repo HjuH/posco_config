@@ -13,4 +13,4 @@ spring:
     datasource:
         url: jdbc:mysql://localhost:3306/test?useUnicode=true&charcterEncoding=utf8&serverTimezone=Asia/Seoul
         username: root
-        password: 1234
+        password: '{cipher}209bdd4a5133783ac645e7453095350032010c94d4490d57ba47baa5a9c99781'
